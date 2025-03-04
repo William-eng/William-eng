@@ -33,7 +33,7 @@ Group | Badges
 <hr/>
 
 ## 🔗 Connect with Me
-[![email](https://img.shields.io/badge/email-ffffff?style=for-the-badge&logo=telegram&logoColor=black)](mailto:williamtijesuni@gmail.com) [![Linkedin](https://www.linkedin/in/william-tijesuni)
+[![email](https://img.shields.io/badge/email-ffffff?style=for-the-badge&logo=telegram&logoColor=black)](mailto:williamtijesuni@gmail.com) [Linkedin](https://www.linkedin/in/william-tijesuni)
 
 Let's collaborate and build amazing things together!
 
